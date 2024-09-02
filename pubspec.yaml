@@ -1,0 +1,8 @@
+name: dart_ffi_createwindow
+
+environment:
+  sdk: ^3.5.0
+
+dev_dependencies:
+  native_toolchain_rust: ^0.1.0-dev.7
+  native_assets_cli: ^0.7.3
